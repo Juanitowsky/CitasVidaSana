@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_perfil"
+            android:icon="@drawable/perfil"
+            android:title="Perfil"
+            app:actionViewClass="android.widget.TextView"
+            android:background="@drawable/nav_item_bg"></item>
+        <item android:id="@+id/nav_calendario"
+            android:icon="@drawable/calendario"
+            android:title="Calendario"
+            app:actionViewClass="android.widget.TextView"
+            android:background="@drawable/nav_item_bg"></item>
+        <item android:id="@+id/nav_citas_programadas"
+            android:icon="@drawable/citas_prog"
+            android:title="Citas Programadas"></item>
+        <item android:id="@+id/nav_historial"
+            android:icon="@drawable/historial"
+            android:title="Historial"></item>
+        <item android:id="@+id/nav_especialistas"
+            android:icon="@drawable/especialistas"
+            android:title="Especialistas"></item>
+        <item android:id="@+id/nav_resultados_medicos"
+            android:icon="@drawable/resultados"
+            android:title="Resultados Médicos"></item>
+        <item android:title=" "
+            android:enabled="false"></item>
+        <item android:id="@+id/nav_salir"
+            android:icon="@drawable/salir"
+            android:title="Cerrar Sesión"></item>
+    </group>
+</menu>

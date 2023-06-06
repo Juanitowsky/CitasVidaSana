@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:windowBackground">@color/azulvs</item>
+    </style>
+    <style name="CalendarView_SelectedDate">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/azulvs</item>
+    </style>
+</resources>

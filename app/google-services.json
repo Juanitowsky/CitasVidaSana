@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844736139888",
+    "firebase_url": "https://citas-vida-sana-default-rtdb.firebaseio.com",
+    "project_id": "citas-vida-sana",
+    "storage_bucket": "citas-vida-sana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844736139888:android:a5ba40d985982509bfdab5",
+        "android_client_info": {
+          "package_name": "com.example.citasvidasana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844736139888-rj5bg0ol3e42qj0tovmnvgv96q2jk267.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB1yTOFh2ROOX5v0Ckbp6lfH19C0cFIQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844736139888-rj5bg0ol3e42qj0tovmnvgv96q2jk267.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
